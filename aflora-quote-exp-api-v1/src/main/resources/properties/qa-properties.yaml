@@ -1,3 +1,0 @@
-http:
-  listener:
-    port: "8084"
