@@ -2,7 +2,7 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 
-	<groupId>8679bd2f-1cf3-4148-9551-2d55cfa4b81</groupId>
+	<groupId>8582867b-154e-465e-a5bf-bf98f27eaa0c</groupId>
 	<artifactId>aflora-quote-exp-api-v1</artifactId>
 	<version>1.0.0-SNAPSHOT</version>
 	<packaging>mule-application</packaging>
@@ -54,7 +54,7 @@
                         <muleVersion>${app.runtime}</muleVersion>
 
                         <applicationName>${appName}</applicationName>
-                        <businessGroupId>631b36cf-166a-4a20-9380-d502faee3fe0</businessGroupId>
+                        <businessGroupId>8582867b-154e-465e-a5bf-bf98f27eaa0c</businessGroupId>
                         <replicas>1</replicas>
 
                         <vCores>0.1</vCores>
